@@ -1,0 +1,22 @@
+{
+  "name": "zktea-test",
+  "version": "1.0.0",
+  "description": "testnet tea try 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevFuyg/tea-demo.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevFuyg/tea-demo/issues"
+  },
+  "homepage": "https://github.com/DevFuyg/tea-demo#readme"
+}
